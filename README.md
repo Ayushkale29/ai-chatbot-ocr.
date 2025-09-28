@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 3.Run the STreamlit app
 ```
-streamlit run app.py
+streamlit run ai_chatbot_ocr.py
 ```
 ## Usage
 
